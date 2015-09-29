@@ -1,3 +1,5 @@
+from house import House
+
 def traverse_house(house):
     print("TRAVERSE")
     if (house.test()):

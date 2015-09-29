@@ -1,3 +1,5 @@
+from rooms import Room 
+
 class House():
     def __init__(self, name):
         self.name = name

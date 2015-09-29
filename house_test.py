@@ -1,5 +1,5 @@
-from house import *
-from traverse_house import *
+from house import House
+from traverse import *
 
 def test():
     print("SETUP")
